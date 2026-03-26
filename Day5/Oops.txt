@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+Inheritance->Child class or sub class inherit properties from parent class/super class ud=sing extends keyword
+->Parent class always executes first
+->Super keyword used to access parent class variables method constructor
+
+Types:
+1.single Inheritance A->B
+2.multilevel Inheritance  A->B->C
+3.hierarchy Inheritance  A->B A->C A->D Single parent multiple Child
+4.multiple Inheritance  A->C B->C multiple parents single child
+5.hybrid Inheritance Combination of any two Inheritance
+
+Reference to control access
+Object to control behaviour
+
+notification n=new EmailNotification()
+n is reference to control access
+object at runtime choose behaviour
+
+Polymorphism
+Poly->many
+morph->forms
+Polymorphism means one thing existing in different forms 
+In coding->one method existing in different behaviour
+Compile time Polymorphism(method overloading)->same name different parameters
+Run time Polymorphism(method overriding)->same name same parameters but in different classes
+=======
+Inheritance->Child class or sub class inherit properties from parent class/super class ud=sing extends keyword
+->Parent class always executes first
+->Super keyword used to access parent class variables method constructor
+
+Types:
+1.single Inheritance A->B
+2.multilevel Inheritance  A->B->C
+3.hierarchy Inheritance  A->B A->C A->D Single parent multiple Child
+4.multiple Inheritance  A->C B->C multiple parents single child
+5.hybrid Inheritance Combination of any two Inheritance
+>>>>>>> d16e1ba47ade8548262f6a3e5964a4866d79c232
