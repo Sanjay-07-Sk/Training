@@ -1,0 +1,22 @@
+Wrapper class -> Object representation of primitive data type
+int -> Integer
+char -> Character
+bool -> Boolean
+float -> Float 
+byte -> Byte 
+long -> Long 
+double -> Double 
+short -> Short 
+package java.lang
+
+Integer b=new Integer(9); old method
+Current initialization Integer b=Integer.valueOf(0)
+
+Autoboxing : int -> Integer
+Unboxing : INteger => int 
+Compiler converts during compilation
+
+Packages -> Organizes teh class and interface into a hierarchial structure
+         -> Folders for classes
+         -> Built in packages 
+         -> User defined packages (reverse domaining names)
