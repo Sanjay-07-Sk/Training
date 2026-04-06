@@ -1,0 +1,24 @@
+Collections is a framework 
+
+
+Compare to array list have 
+  ->Easy insertion,deletion
+  ->Dynamic resizing
+  ->In-built methods
+  ->Stores Wrapper class generics(strict datatype)
+
+ArrayList 
+ ->Ordered data
+ ->Index based accessing
+ ->Can store duplicates
+Method 
+ :add()
+ :get()
+ :remove() Time Complexity:O(N)
+ :removeAll()
+ :set()
+ :contains() return true or false
+ :clear()
+
+LinkedList
+ ->Collections of nodes connected using references
