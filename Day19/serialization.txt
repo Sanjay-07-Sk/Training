@@ -1,0 +1,7 @@
+Serialization
+  ->converting object into byte streams and storing it in file / database to maintain the state of object
+  ->platform independent
+
+    Product P = new Product()
+    this P (object) is stored in RAM during execution but after execution it gets deleted,so we Serialization to store it permanently in file / database
+    obj->byte streams->files 
