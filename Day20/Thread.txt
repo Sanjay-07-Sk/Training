@@ -1,0 +1,14 @@
+Single Threading 
+  ->runs step by step, executes one task at a time
+
+  Disadvantages
+    ->takes long time
+    ->it waits until 
+
+Process -> Program currently running
+        -> Processor does not share data easily
+        -> Creating Process is CPU heavy
+
+Thread -> Smallest unit of process that performs task
+       -> thread always belongs to task
+       -> multiple threads can exist inside one process
