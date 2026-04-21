@@ -5,7 +5,7 @@ public class JDBC {
 
     static final String URL = "jdbc:mysql://127.0.0.1:3306/students1";
     static final String USER = "root";
-    static final String PASSWORD = "1253642234@Sk";
+    static final String PASSWORD = "password";
 
     // ─── Get Connection ───────────────────────────────────────────
     public static Connection getConnection() throws SQLException {
