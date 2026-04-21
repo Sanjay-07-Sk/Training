@@ -1,0 +1,7 @@
+Functional Programming
+  Evolution:
+    Java 1 : (WORA write once read anywhere) Basic features
+    Java 5 : For each loop, generics 
+    Java 7 : Exception handling
+    Java 8 : Lambda, Functional interface, Stream API 
+      -> Modern Java, less code, more flexible, powerful 
