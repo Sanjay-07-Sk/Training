@@ -1,0 +1,12 @@
+Streams (we not use any loop in real project 
+        -> by use alternate of loop we use stream operations to use it contains (filter,map,reduce,collect) to use .   )
+        -> process the data
+        ->sequence of elements supports functional operations
+
+        Java 7 : Imperative style(loops,mutation)
+        Java 8 and above : Declarative style, less boiler plate
+
+Streams work as a pipeline of operations
+Source -> Intermediate operations -> Terminal operations
+where data   (map,alter)               forEach(),toList()
+comes from

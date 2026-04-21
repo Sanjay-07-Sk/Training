@@ -1,0 +1,3 @@
+Supplier
+  ->An interface does not take any input and produces a value using get() method
+  
